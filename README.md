@@ -1,6 +1,6 @@
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="assets/mlb-banner.png" alt="MLB Analytics — Sean Lahman Baseball DB" width="820">
+  <img src="file:///Users/sangameshgoudahorapeti/Library/Mobile%20Documents/com~apple~CloudDocs/maven-analytics-SQL/mlb.png" alt="MLB Analytics — Sean Lahman Baseball DB" width="820">
 </p>
 
 <h1 align="center">MLB Analytics using the Sean Lahman Baseball Database</h1>
