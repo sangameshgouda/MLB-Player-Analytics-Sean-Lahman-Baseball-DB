@@ -1,5 +1,3 @@
-# MLB-Player-Analytics-Sean-Lahman-Baseball-DB
-
 <!-- PROJECT BANNER -->
 <p align="center">
   <img src="assets/mlb-banner.png" alt="MLB Analytics — Sean Lahman Baseball DB" width="820">
